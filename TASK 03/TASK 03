@@ -1,1 +1,10 @@
-Disassembly objdump Ofast function and instructions with opcode respectively.
+# 1. addi sp, sp, -32
+Opcode(ADDI): 0010011  
+Immediate: -32 = 11111111111111100000 (12 bits)  
+Registers: sp(rd) = 00010, sp(rs1) = 00010  
+
+| imm[11:0]       | rs1    | funct3 | rd    | opcode  |
+|------------------|--------|--------|-------|---------|
+| 111111100000    | 00010  | 000    | 00010 | 0010011 |
+---
+
