@@ -2,10 +2,10 @@
 ## Requirements:
 
 1.VSD Squadronmini CH32V00x RISC V processor<br>
-2.Ultrasonic sensor
-3.Moisture sensor
-4.Servomotors
-5.LEDs
+2.Ultrasonic sensor<br>
+3.Moisture sensor<br>
+4.Servomotors<br>
+5.LEDs<br>
 6.Resistors
 
 ## Pin Connections:
