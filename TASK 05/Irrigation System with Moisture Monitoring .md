@@ -1,5 +1,5 @@
 # About my project
-The ultrasonic sensor detects the object's distance and, if detected at a range of 10 cm, adjusts the servo motor position and turns on an LED for proximity detection; otherwise, the servo repositions and turns off the LED. <br> 
+The ultrasonic sensor detects the object's distance and, if detected at a range of 10 cm, adjusts the servo motor (used as water pump) position and turns on an LED for proximity detection; otherwise, the servo repositions and turns off the LED. <br> 
 
 The soil moisture sensor detects soil humidity and turns on an LED in the presence of moisture and off if the soil is dry.<br> 
 
